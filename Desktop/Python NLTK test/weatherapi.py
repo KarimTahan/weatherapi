@@ -4,7 +4,7 @@ import requests
 import json
 
 scheduler = BlockingScheduler()
-api_key = "1457a7a5dc3881341c72cf558dcd5b12"
+api_key = "insert-key-here"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 interval = 1
 
